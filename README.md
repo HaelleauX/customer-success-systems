@@ -153,9 +153,9 @@ Processes, data, automation, and AI should improve customer judgment and communi
 
 ## Featured Portfolio Work
 
-### Implementation Acceleration
+### [Implementation Acceleration](./case-studies/implementation-acceleration/)
 
-A case study examining how implementation structure, stakeholder alignment, workflow standardization, and proactive risk management can reduce time-to-value while preserving customer readiness.
+A case study examining how implementation structure, stakeholder alignment, workflow standardization, and proactive risk management reduced time-to-live from approximately 12 weeks to 6 weeks while preserving customer readiness.
 
 ### Adoption Turnaround
 
