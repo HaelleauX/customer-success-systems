@@ -157,9 +157,9 @@ Processes, data, automation, and AI should improve customer judgment and communi
 
 A case study examining how implementation structure, stakeholder alignment, workflow standardization, and proactive risk management reduced time-to-live from approximately 12 weeks to 6 weeks while preserving customer readiness.
 
-### Adoption Turnaround
+### [Adoption Turnaround](./case-studies/adoption-turnaround/)
 
-A portfolio case study focused on identifying barriers to utilization, improving stakeholder engagement, and creating a structured adoption strategy across a large distributed customer environment.
+A case study showing how implementation support, stakeholder alignment, enablement, and customer-success execution increased utilization from approximately 12% to 22% across a 500+ district environment in roughly four months.
 
 ### Customer Risk & Stabilization
 
