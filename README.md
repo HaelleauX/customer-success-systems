@@ -161,9 +161,9 @@ A case study examining how implementation structure, stakeholder alignment, work
 
 A case study showing how implementation support, stakeholder alignment, enablement, and customer-success execution increased utilization from approximately 12% to 22% across a 500+ district environment in roughly four months.
 
-### Customer Risk & Stabilization
+### [Customer Risk & Stabilization](./case-studies/customer-risk-stabilization/)
 
-A generalized case study demonstrating how to organize complex customer issues, establish ownership, coordinate cross-functional action, and restore a clear operating cadence.
+A generalized case study demonstrating how to organize complex customer issues, establish ownership, coordinate cross-functional action, restore communication cadence, and move a customer from reactive escalation toward structured stabilization.
 
 ### AI-Enabled Customer Success
 
