@@ -107,6 +107,12 @@ A generalized case study showing how fragmented customer issues can be converted
 
 **Demonstrates:** escalation management, root-cause thinking, account stabilization, executive communication, prioritization under ambiguity, and customer-confidence recovery.
 
+### [AI-Enabled Post-Sale Operations](./case-studies/ai-enabled-post-sale-operations/)
+
+A case study showing how AI can improve post-sale sensemaking by synthesizing fragmented customer information, surfacing risk signals, structuring escalation evidence, and improving decision preparation while keeping human judgment accountable for the conclusion.
+
+**Demonstrates:** AI-enabled customer operations, customer intelligence, risk detection, escalation preparation, implementation and adoption analysis, knowledge management, and human-in-the-loop decision support.
+
 Together, these case studies tell one operating story:
 
 > **Launch reliably → drive adoption → stabilize risk → protect value.**
@@ -178,6 +184,8 @@ Potential applications include:
 The operating principle is the same as in my applied-AI work:
 
 > **AI can accelerate the investigation. Human judgment still owns the conclusion.**
+
+See the full case study: [AI-Enabled Post-Sale Operations](./case-studies/ai-enabled-post-sale-operations/).
 
 ---
 
