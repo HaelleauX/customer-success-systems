@@ -76,6 +76,10 @@ A lightweight public diagnostic for identifying where internal status and custom
 
 It is designed to surface questions and misalignment, not generate a score.
 
+### [Outcome Reliability Failure Signals](./playbooks/outcome-reliability-failure-signals.md)
+
+A pattern-recognition playbook for spotting the moments when internal completion and customer reality stop matching, including green dashboards with unhappy customers, closed tickets with unresolved problems, post-go-live adoption gaps, cross-functional ownership failures, recurring escalations, and AI output without measurable improvement.
+
 ---
 
 ## Where the Work Usually Starts
