@@ -14,8 +14,8 @@ How implementation support, enablement, stakeholder alignment, and customer-succ
 How fragmented customer issues can be converted into a shared operating picture with visible dependencies, explicit ownership, coordinated action, and a predictable communication cadence.
 
 ### [AI-Enabled Post-Sale Operations](./ai-enabled-post-sale-operations/)
-How AI can support post-sale sensemaking, risk detection, escalation preparation, and decision quality while keeping human judgment accountable for the conclusion.
+A system-design study showing how AI can support post-sale sensemaking, risk detection, escalation preparation, and decision quality while keeping human judgment accountable for the conclusion.
 
 ---
 
-These case studies are designed to demonstrate transferable judgment and operating principles without reproducing confidential customer, employer, or proprietary materials.
+The professional case studies are generalized and sanitized. The AI-enabled operations page is explicitly a system-design study rather than a claim of a single quantified customer deployment.
