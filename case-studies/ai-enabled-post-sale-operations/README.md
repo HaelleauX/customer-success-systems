@@ -1,8 +1,10 @@
 # AI-Enabled Post-Sale Operations
 
-## Case Study Overview
+## System Design Study
 
-This case study demonstrates how AI can support post-sale operations without replacing customer judgment, operational ownership, or human accountability.
+This portfolio study explores how AI can support post-sale operations without replacing customer judgment, operational ownership, or human accountability.
+
+It is intentionally presented as a **system-design study**, not as a claim of a single deployed customer program with a quantified business outcome.
 
 The opportunity is not simply to automate more work.
 
@@ -40,31 +42,29 @@ Post-sale customer information is often scattered across:
 
 Each system may contain part of the truth.
 
-The problem is that the customer experiences all of it as one relationship.
+The customer experiences all of it as one relationship.
 
-When teams have to manually reconstruct that relationship every time an issue appears, several things happen:
+When teams have to manually reconstruct that relationship every time an issue appears:
 
 - risk becomes visible late
-- important context is lost between handoffs
-- internal teams work from different versions of the customer story
+- context is lost between handoffs
+- teams work from different versions of the customer story
 - executive updates become reactive
-- customer-facing teams spend too much time summarizing and too little time deciding
+- customer-facing teams spend more time summarizing than deciding
 - closed tasks can be mistaken for resolved customer problems
-- health scores can drift away from customer reality
+- health reporting can drift away from customer reality
 
-AI can help reduce that fragmentation, but only if it is used as an analysis layer rather than an unquestioned authority.
+AI can reduce that fragmentation when it is used as an **analysis layer**, not an unquestioned authority.
 
 ---
 
-## Where AI Helps
+## Where AI Can Help
 
 ### 1. Customer Context Synthesis
 
-AI can help consolidate scattered customer information into a usable operating picture.
+AI can consolidate scattered customer information into a usable operating picture, such as:
 
-Useful outputs may include:
-
-- current customer objective
+- customer objective
 - implementation status
 - recent decisions
 - unresolved issues
@@ -77,7 +77,7 @@ Useful outputs may include:
 
 The value is not the summary itself.
 
-The value is reducing the amount of time required to reconstruct context before a human can act.
+The value is reducing the time required to reconstruct context before a human can act.
 
 ### 2. Risk Signal Detection
 
@@ -86,8 +86,8 @@ AI can help surface recurring language, stalled dependencies, repeated unresolve
 Examples include:
 
 - repeated timeline slippage
-- multiple references to unclear ownership
-- recurring support problems
+- recurring ownership ambiguity
+- repeated support problems
 - unresolved workflow blockers
 - declining stakeholder engagement
 - customer language that conflicts with a “green” internal status
@@ -97,9 +97,7 @@ These are signals for review, not automatic conclusions.
 
 ### 3. Escalation Evidence Structuring
 
-When an account escalates, teams often spend significant time gathering the evidence needed to explain what happened.
-
-AI can assist by organizing information into categories such as:
+AI can help organize escalation evidence into:
 
 - customer impact
 - timeline
@@ -114,7 +112,7 @@ That creates a faster path from noise to decision.
 
 ### 4. Implementation and Adoption Analysis
 
-AI can support comparison between:
+AI can help compare:
 
 - implementation milestones
 - readiness conditions
@@ -123,15 +121,13 @@ AI can support comparison between:
 - stakeholder feedback
 - support themes
 
-This can help expose a familiar post-sale problem:
+This can expose a familiar post-sale problem:
 
 > **The implementation appears complete, but the customer is not yet operating successfully.**
 
 ### 5. Executive Preparation
 
-AI can help convert a large body of operational detail into a concise decision-oriented update.
-
-A strong executive view should clarify:
+AI can help turn operational detail into a concise decision-oriented view:
 
 - what changed
 - what matters
@@ -140,17 +136,17 @@ A strong executive view should clarify:
 - who owns the next action
 - what happens next
 
-AI can accelerate the synthesis.
+AI can accelerate synthesis.
 
 Human judgment determines what deserves executive attention.
 
 ### 6. Knowledge and Handoff Quality
 
-AI can help reduce information loss during handoffs between Sales, Implementation, Customer Success, Support, Product, and Operations.
+AI can help reduce information loss between Sales, Implementation, Customer Success, Support, Product, and Operations.
 
-The goal is not to generate more documentation.
+The goal is not more documentation.
 
-It is to preserve the customer context that the next team actually needs.
+It is preserving the context the next team actually needs.
 
 ---
 
@@ -162,23 +158,19 @@ Post-sale environments contain ambiguity, incomplete data, conflicting stakehold
 
 Human review remains responsible for:
 
-- validating the source material
+- validating source material
 - interpreting customer intent
 - distinguishing correlation from causation
-- deciding whether a signal represents actual risk
+- deciding whether a signal represents real risk
 - correcting incomplete or misleading synthesis
 - determining the appropriate customer response
 - approving material that informs consequential decisions
-
-The operating principle is:
 
 > **AI can accelerate the investigation. Human judgment still owns the conclusion.**
 
 ---
 
-## A Practical Operating Flow
-
-A high-level AI-enabled post-sale workflow may look like this:
+## High-Level Operating Flow
 
 ```text
 Customer Signals
@@ -202,26 +194,20 @@ The final step matters.
 
 A task can be complete without the customer outcome being achieved.
 
-Outcome verification closes that gap.
-
 ---
 
 ## What This Demonstrates
 
-This case study reflects capability in:
-
-- AI-enabled customer success
-- post-sale operations
+- AI-enabled customer operations
+- post-sale systems thinking
 - customer intelligence
-- risk detection
+- risk-signal detection
 - escalation preparation
-- implementation analysis
-- adoption analysis
+- implementation and adoption analysis
 - executive communication
 - knowledge management
 - cross-functional handoffs
 - human-in-the-loop AI
-- operational workflow design
 - evidence-based decision support
 
 ---
@@ -239,17 +225,13 @@ AI should not be treated as the sole authority for:
 - executive decisions
 - customer-facing commitments
 
-These areas require context, evidence, and accountable human judgment.
-
 A fluent answer is not automatically a correct operational conclusion.
 
 ---
 
 ## Portfolio Boundary
 
-This public case study demonstrates the operating approach without publishing the complete implementation system.
-
-Not included here:
+This public study demonstrates the operating approach without publishing:
 
 - proprietary prompt systems
 - production workflows
@@ -284,6 +266,6 @@ The same principles can support:
 
 ## Portfolio Note
 
-This is a generalized public portfolio artifact designed to demonstrate approach, judgment, and system design.
+This is a generalized public system-design artifact.
 
 It does not reproduce confidential customer information, employer-owned materials, or private implementation details.
