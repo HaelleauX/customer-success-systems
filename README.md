@@ -231,13 +231,13 @@ This portfolio demonstrates work across:
 ## Repository Structure
 
 ```text
-case-studies/
-frameworks/
-templates/
-playbooks/
-ai-enabled-cs/
-assets/
+case-studies/  → applied examples and outcomes
+frameworks/    → public operating models
+templates/     → lightweight diagnostic tools
+playbooks/     → pattern-recognition guides
 ```
+
+Each folder includes its own index for easier navigation.
 
 The repository is intentionally selective. Public materials demonstrate the operating approach without publishing the complete internal systems behind the work.
 
