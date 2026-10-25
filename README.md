@@ -64,6 +64,12 @@ That means asking questions such as:
 - What does the customer need to understand now?
 - What evidence would demonstrate that value is actually being realized?
 
+### [Customer Outcome Reliability Model](./frameworks/customer-outcome-reliability-model.md)
+
+The public framework maps the post-sale chain from **Promise → Delivery → Adoption → Outcome**, including the failure modes that appear between stages, the signals that often disagree, and the diagnostic questions worth asking.
+
+It intentionally stops short of publishing the full scoring, maturity, assessment, and remediation methodology.
+
 ---
 
 ## Where the Work Usually Starts
