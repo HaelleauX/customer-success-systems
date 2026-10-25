@@ -6,37 +6,26 @@
 
 I build and improve the systems that connect what a company promises customers to what customers actually experience.
 
-That work sits across implementation, adoption, risk, escalation, cross-functional ownership, and value realization.
+My work spans **enterprise customer success, implementation, adoption, risk, escalation, value realization, and AI-enabled post-sale operations**.
 
-The underlying question is simple:
+The operating question behind this portfolio is simple:
 
 > **Can the organization reliably turn a customer promise into a customer outcome?**
 
 ---
 
-## The Operating Problem
+## Proof at a Glance
 
-Customer problems rarely stay inside the department where they started.
-
-A delayed implementation becomes an adoption problem.
-
-An adoption problem becomes a renewal risk.
-
-A product dependency becomes an executive escalation.
-
-A “closed” support issue remains unresolved in the customer’s workflow.
-
-A healthy-looking dashboard masks a customer who is quietly losing confidence.
-
-These situations often appear different on the surface, but they usually expose the same underlying issue:
-
-**the operating system between promise and outcome is unreliable.**
-
-That gap is where I work.
+| Area | Evidence |
+| --- | --- |
+| Implementation | Reduced time-to-live from approximately **12 weeks to 6 weeks** through readiness, ownership, process standardization, and proactive risk management |
+| Adoption | Increased utilization from approximately **12% to 22%** across a **500+ district** environment in roughly four months |
+| Stabilization | Built a generalized operating model for turning fragmented escalations into visible priorities, dependencies, ownership, and communication cadence |
+| AI-Enabled Operations | Designed a human-in-the-loop approach for using AI to synthesize customer context, surface contradictions, structure escalation evidence, and improve decision preparation |
 
 ---
 
-## What Outcome Reliability Means
+## Customer Outcome Reliability
 
 A reliable post-sale system connects four stages:
 
@@ -50,56 +39,43 @@ Adoption
 Outcome
 ```
 
-Each transition creates risk.
+Each transition creates a place where customer value can break down.
 
-The work is not simply moving a customer from one stage to the next. It is making sure the handoffs, ownership, evidence, communication, and operating conditions are strong enough for the intended outcome to survive the journey.
+A company can sell the right product, launch on time, show healthy usage, and still fail to create the outcome the customer expected.
 
-That means asking questions such as:
+That is why internal completion and customer success cannot be treated as interchangeable.
 
-- What was actually promised?
-- What conditions must be true for successful delivery?
-- Where is customer reality diverging from internal reporting?
-- Which risks are symptoms, and which are root causes or dependencies?
-- Who owns the next action?
-- What does the customer need to understand now?
-- What evidence would demonstrate that value is actually being realized?
+### Public Portfolio Tools
 
-### [Customer Outcome Reliability Model](./frameworks/customer-outcome-reliability-model.md)
+- **[Customer Outcome Reliability Model](./frameworks/customer-outcome-reliability-model.md)**  
+  The public operating framework for examining the transitions between Promise, Delivery, Adoption, and Outcome.
 
-The public framework maps the post-sale chain from **Promise → Delivery → Adoption → Outcome**, including the failure modes that appear between stages, the signals that often disagree, and the diagnostic questions worth asking.
+- **[Outcome Reliability Diagnostic Snapshot](./templates/outcome-reliability-diagnostic-snapshot.md)**  
+  A lightweight diagnostic for identifying where internal status and customer reality may be diverging.
 
-It intentionally stops short of publishing the full scoring, maturity, assessment, and remediation methodology.
+- **[Outcome Reliability Failure Signals](./playbooks/outcome-reliability-failure-signals.md)**  
+  A pattern-recognition guide for signals such as green dashboards with unhappy customers, closed tickets with unresolved problems, post-go-live adoption gaps, recurring escalations, and unclear ownership.
 
-### [Outcome Reliability Diagnostic Snapshot](./templates/outcome-reliability-diagnostic-snapshot.md)
-
-A lightweight public diagnostic for identifying where internal status and customer reality may be diverging across Promise, Delivery, Adoption, and Outcome.
-
-It is designed to surface questions and misalignment, not generate a score.
-
-### [Outcome Reliability Failure Signals](./playbooks/outcome-reliability-failure-signals.md)
-
-A pattern-recognition playbook for spotting the moments when internal completion and customer reality stop matching, including green dashboards with unhappy customers, closed tickets with unresolved problems, post-go-live adoption gaps, cross-functional ownership failures, recurring escalations, and AI output without measurable improvement.
+These public tools demonstrate the diagnostic lens without publishing deeper scoring, prioritization, or remediation mechanics.
 
 ---
 
 ## Where the Work Usually Starts
 
-Companies rarely wake up asking for an “outcome reliability assessment.”
-
-They usually have a visible problem:
+The underlying operating-model problem usually arrives disguised as something more immediate:
 
 - “This enterprise implementation is going sideways.”
 - “Our largest customer is escalating.”
 - “The customer is live but still not using the product.”
 - “Why is this account consuming six teams?”
 - “Our implementation process cannot scale.”
-- “We keep adding people, but the same customer problems return.”
-- “Product and Engineering are drowning in escalations.”
+- “We keep adding people, but the same problems return.”
+- “Product and Engineering are drowning in customer escalations.”
 - “We bought AI tools, but nobody can prove what improved.”
 
-Those are the entry points.
+The visible problem is the entry point.
 
-The real work is diagnosing the operating-model failure underneath them.
+The work is understanding **why the promise-to-outcome chain is failing underneath it.**
 
 ---
 
@@ -107,124 +83,56 @@ The real work is diagnosing the operating-model failure underneath them.
 
 ### [Implementation Acceleration](./case-studies/implementation-acceleration/)
 
-A case study showing how implementation structure, readiness, stakeholder alignment, workflow standardization, and proactive risk management reduced time-to-live from approximately **12 weeks to 6 weeks** while preserving customer readiness.
+How implementation structure, readiness, stakeholder alignment, workflow standardization, and proactive risk management reduced time-to-live from approximately **12 weeks to 6 weeks**.
 
-**Demonstrates:** implementation strategy, process design, readiness management, dependency visibility, ownership, cross-functional delivery, and time-to-value acceleration.
+**Demonstrates:** implementation strategy, readiness management, dependency visibility, ownership, cross-functional delivery, and time-to-value acceleration.
 
 ### [Adoption Turnaround](./case-studies/adoption-turnaround/)
 
-A case study showing how implementation support, enablement, stakeholder alignment, and customer-success execution increased utilization from approximately **12% to 22%** across a **500+ district** environment in roughly four months.
+How implementation support, enablement, stakeholder alignment, and customer-success execution increased utilization from approximately **12% to 22%** across a **500+ district** environment in roughly four months.
 
-**Demonstrates:** adoption strategy, customer enablement, large-scale portfolio management, utilization analysis, stakeholder alignment, and value realization.
+**Demonstrates:** adoption strategy, customer enablement, large-scale portfolio management, stakeholder alignment, and value realization.
 
 ### [Customer Risk & Stabilization](./case-studies/customer-risk-stabilization/)
 
-A generalized case study showing how fragmented customer issues can be converted into a shared operating picture with visible dependencies, explicit ownership, coordinated cross-functional action, and a predictable communication cadence.
+A generalized example of organizing fragmented customer issues into a shared operating picture with visible dependencies, explicit ownership, coordinated action, and predictable communication.
 
-**Demonstrates:** escalation management, root-cause thinking, account stabilization, executive communication, prioritization under ambiguity, and customer-confidence recovery.
+**Demonstrates:** escalation management, root-cause thinking, stabilization, executive communication, and prioritization under ambiguity.
 
 ### [AI-Enabled Post-Sale Operations](./case-studies/ai-enabled-post-sale-operations/)
 
-A case study showing how AI can improve post-sale sensemaking by synthesizing fragmented customer information, surfacing risk signals, structuring escalation evidence, and improving decision preparation while keeping human judgment accountable for the conclusion.
+A system-design study showing where AI can strengthen post-sale sensemaking without replacing human judgment.
 
-**Demonstrates:** AI-enabled customer operations, customer intelligence, risk detection, escalation preparation, implementation and adoption analysis, knowledge management, and human-in-the-loop decision support.
+**Demonstrates:** customer-context synthesis, risk-signal detection, escalation preparation, implementation and adoption analysis, knowledge management, and human-in-the-loop decision support.
 
-Together, these case studies tell one operating story:
+Together, the work follows one operating story:
 
 > **Launch reliably → drive adoption → stabilize risk → protect value.**
 
 ---
 
-## How I Work
+## Operating Principles
 
-### Outcomes Over Activity
-
+**Outcomes over activity.**  
 A full calendar is not a customer outcome.
 
-Tasks, milestones, meetings, tickets, and health scores matter only if they move the customer toward the result they bought.
+**Customer reality over internal closure.**  
+A closed ticket is not necessarily a fixed problem. A go-live date is not necessarily adoption.
 
-### Customer Reality Over Internal Closure
+**Surface risk early.**  
+Visible risk can be managed. Hidden risk becomes an escalation.
 
-A closed ticket is not necessarily a fixed problem.
+**Make ownership explicit.**  
+Important work needs a clear owner, next action, decision point, and timing.
 
-A completed milestone is not necessarily readiness.
-
-A go-live date is not necessarily adoption.
-
-Internal completion and customer resolution are related, but they are not interchangeable.
-
-### Surface Risk Early
-
-Visible risk can be managed.
-
-Hidden risk becomes an escalation.
-
-### Make Ownership Explicit
-
-Important work should have a clear owner, next action, decision point, and timing.
-
-Ambiguous responsibility is where customer problems go to become cross-functional folklore.
-
-### Separate Symptoms From Root Causes
-
+**Separate symptoms from root causes.**  
 The loudest issue is not always the most important issue.
 
-Good stabilization work distinguishes customer-visible symptoms from the dependency, decision, workflow gap, or ownership problem producing them.
+**Build systems, not heroics.**  
+If success depends on one person remembering everything, the process is not yet reliable.
 
-### Build Systems, Not Heroics
-
-If a process only works because one person remembers everything, follows up constantly, or manually connects every dependency, it is not yet reliable.
-
-### Preserve the Human Relationship
-
-Data, process, automation, and AI should improve judgment and communication, not remove the context required to understand what the customer is actually experiencing.
-
----
-
-## AI-Enabled Post-Sale Operations
-
-AI is useful when it improves the quality and speed of post-sale sensemaking.
-
-Potential applications include:
-
-- synthesizing fragmented customer information
-- preparing account and stakeholder context
-- identifying recurring risk signals
-- surfacing contradictions between systems and customer feedback
-- structuring escalation evidence
-- improving documentation and handoffs
-- supporting implementation and adoption analysis
-- reducing administrative noise
-- strengthening decision preparation
-
-The operating principle is the same as in my applied-AI work:
-
-> **AI can accelerate the investigation. Human judgment still owns the conclusion.**
-
-See the full case study: [AI-Enabled Post-Sale Operations](./case-studies/ai-enabled-post-sale-operations/).
-
----
-
-## Selected Capabilities
-
-This portfolio demonstrates work across:
-
-- enterprise customer success
-- strategic account management
-- implementation and onboarding
-- adoption strategy
-- value realization
-- customer risk management
-- escalation and stabilization
-- stakeholder alignment
-- executive communication
-- change management
-- program operations
-- process and workflow design
-- cross-functional leadership
-- customer education
-- knowledge management
-- AI-enabled post-sale operations
+**Keep humans accountable.**  
+Data, automation, and AI should improve judgment, not quietly replace it.
 
 ---
 
@@ -237,9 +145,7 @@ templates/     → lightweight diagnostic tools
 playbooks/     → pattern-recognition guides
 ```
 
-Each folder includes its own index for easier navigation.
-
-The repository is intentionally selective. Public materials demonstrate the operating approach without publishing the complete internal systems behind the work.
+Each folder includes its own index.
 
 ---
 
@@ -247,9 +153,9 @@ The repository is intentionally selective. Public materials demonstrate the oper
 
 Created by **Haley Brasher | HaelleauX**.
 
-My work sits in the gap between what companies promise customers and what customers actually experience.
+I work at the intersection of **Customer Success, Implementation, Post-Sale Operations, and applied AI**.
 
-I build, diagnose, and improve post-sale operating systems across implementation, adoption, risk, escalation, and value realization, especially in environments where multiple teams own pieces of the customer journey but no single dashboard tells the whole truth.
+I am especially interested in complex environments where multiple teams own pieces of the customer journey, the systems say one thing, and the customer is experiencing another.
 
 **I make customer value more reliable.**
 
@@ -259,13 +165,11 @@ Unofficially: **Director of “That’s Not Actually Fixed.”**
 
 ## Portfolio Boundary
 
-This repository contains original frameworks, generalized examples, sanitized case studies, and selected portfolio materials.
+This repository contains original frameworks, generalized examples, sanitized professional case studies, and selected portfolio materials.
 
-Professional examples are reconstructed or generalized where necessary to protect confidential customer information, proprietary employer materials, internal systems, protected data, and other non-public information.
+Professional examples are reconstructed or generalized where necessary to protect confidential customer information, employer materials, internal systems, protected data, and other non-public information.
 
-Detailed internal workflows, reusable private playbooks, scoring logic, customer-specific materials, employer-owned artifacts, and other potentially commercial IP are intentionally not published.
-
-The goal is straightforward:
+Detailed workflows, scoring logic, customer-specific materials, employer-owned artifacts, reusable private playbooks, and other potentially commercial IP are intentionally not published.
 
 > **Show the capability without publishing the entire machine.**
 
