@@ -70,6 +70,12 @@ The public framework maps the post-sale chain from **Promise → Delivery → Ad
 
 It intentionally stops short of publishing the full scoring, maturity, assessment, and remediation methodology.
 
+### [Outcome Reliability Diagnostic Snapshot](./templates/outcome-reliability-diagnostic-snapshot.md)
+
+A lightweight public diagnostic for identifying where internal status and customer reality may be diverging across Promise, Delivery, Adoption, and Outcome.
+
+It is designed to surface questions and misalignment, not generate a score.
+
 ---
 
 ## Where the Work Usually Starts
