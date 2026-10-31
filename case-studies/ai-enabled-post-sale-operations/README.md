@@ -1,275 +1,55 @@
 # AI-Enabled Post-Sale Operations
 
-## System Design Study
+**A design for turning scattered customer signals into evidence-backed decision preparation.**
 
-This portfolio study explores how AI can support post-sale operations without replacing customer judgment, operational ownership, or human accountability.
+*System-design study | No deployed-program or quantified business outcome claimed*
 
-It is intentionally presented as a **system-design study**, not as a claim of a single deployed customer program with a quantified business outcome.
+## The Problem
 
-The opportunity is not simply to automate more work.
+Customer context is spread across CRM notes, support tickets, implementation plans, usage data, email, and internal conversations. Reconstructing that context delays decisions and allows contradictions to pass unnoticed.
 
-It is to use AI where it is strongest:
+## My Design Contribution
 
-- organizing fragmented information
-- finding patterns across noisy inputs
-- surfacing contradictions
-- improving preparation
-- reducing repetitive synthesis
-- helping teams see what deserves human attention
+I structured an approach in which AI assists with synthesis and pattern detection, while people validate evidence, interpret customer impact, and own decisions.
 
-The objective is:
+| Stage | AI assistance | Human responsibility |
+| --- | --- | --- |
+| Assemble context | Organize objectives, commitments, issues, and milestones | Confirm source relevance and completeness |
+| Surface signals | Flag stalled dependencies, recurring issues, or conflicting status | Decide whether the signal represents meaningful risk |
+| Prepare decisions | Draft an evidence-based view of impact, open questions, and next actions | Validate conclusions and assign ownership |
+| Follow through | Help organize updates and unresolved items | Approve communication and verify the customer outcome |
 
-> **Use AI to improve post-sale sensemaking so teams can identify risk earlier, make better decisions, and spend less time reconstructing the customer story.**
+## Illustrative Use
 
----
+An implementation plan says “complete,” while recent tickets describe a workflow blocker and customer notes show training remains unresolved.
 
-## The Operating Problem
+The proposed system would flag the contradiction and bring the supporting sources together. A person would determine the current customer impact, correct the status if needed, and coordinate the next action.
 
-Post-sale customer information is often scattered across:
+This is an illustrative scenario, not a claim that the workflow was deployed for a specific account.
 
-- CRM notes
-- implementation plans
-- support tickets
-- project-management tools
-- product feedback
-- email threads
-- meeting notes
-- call transcripts
-- usage data
-- executive updates
-- internal chat
-- customer communications
+## Review Controls
 
-Each system may contain part of the truth.
+- Keep supporting sources visible.
+- Distinguish facts, interpretations, and unresolved questions.
+- Treat missing or conflicting information as a review item.
+- Require human approval for customer commitments and consequential decisions.
+- Check whether action resolved the experienced problem.
 
-The customer experiences all of it as one relationship.
+## Intended Value and Evaluation
 
-When teams have to manually reconstruct that relationship every time an issue appears:
+The design aims to reduce context-reconstruction effort and improve decision preparation. Those benefits require testing.
 
-- risk becomes visible late
-- context is lost between handoffs
-- teams work from different versions of the customer story
-- executive updates become reactive
-- customer-facing teams spend more time summarizing than deciding
-- closed tasks can be mistaken for resolved customer problems
-- health reporting can drift away from customer reality
+A pilot could compare preparation time, source accuracy, missed or unsupported claims, reviewer corrections, and usefulness of proposed next actions. This study does not report measured improvements.
 
-AI can reduce that fragmentation when it is used as an **analysis layer**, not an unquestioned authority.
+## The Judgment Behind the Work
 
----
+**A useful summary helps someone make a better decision and shows the evidence behind it.**
 
-## Where AI Can Help
-
-### 1. Customer Context Synthesis
-
-AI can consolidate scattered customer information into a usable operating picture, such as:
-
-- customer objective
-- implementation status
-- recent decisions
-- unresolved issues
-- dependencies
-- stakeholder concerns
-- open commitments
-- adoption signals
-- escalation history
-- next decisions required
-
-The value is not the summary itself.
-
-The value is reducing the time required to reconstruct context before a human can act.
-
-### 2. Risk Signal Detection
-
-AI can help surface recurring language, stalled dependencies, repeated unresolved issues, or contradictions that may indicate customer risk.
-
-Examples include:
-
-- repeated timeline slippage
-- recurring ownership ambiguity
-- repeated support problems
-- unresolved workflow blockers
-- declining stakeholder engagement
-- customer language that conflicts with a “green” internal status
-- dependencies appearing across several teams
-
-These are signals for review, not automatic conclusions.
-
-### 3. Escalation Evidence Structuring
-
-AI can help organize escalation evidence into:
-
-- customer impact
-- timeline
-- known facts
-- unresolved questions
-- dependencies
-- decisions already made
-- ownership
-- next actions
-
-That creates a faster path from noise to decision.
-
-### 4. Implementation and Adoption Analysis
-
-AI can help compare:
-
-- implementation milestones
-- readiness conditions
-- training activity
-- usage patterns
-- stakeholder feedback
-- support themes
-
-This can expose a familiar post-sale problem:
-
-> **The implementation appears complete, but the customer is not yet operating successfully.**
-
-### 5. Executive Preparation
-
-AI can help turn operational detail into a concise decision-oriented view:
-
-- what changed
-- what matters
-- what is at risk
-- what decision is needed
-- who owns the next action
-- what happens next
-
-AI can accelerate synthesis.
-
-Human judgment determines what deserves executive attention.
-
-### 6. Knowledge and Handoff Quality
-
-AI can help reduce information loss between Sales, Implementation, Customer Success, Support, Product, and Operations.
-
-The goal is not more documentation.
-
-It is preserving the context the next team actually needs.
-
----
-
-## Human Review Is Not Optional
-
-AI-generated customer intelligence should not silently become operational truth.
-
-Post-sale environments contain ambiguity, incomplete data, conflicting stakeholder perspectives, and context that may not exist in any system of record.
-
-Human review remains responsible for:
-
-- validating source material
-- interpreting customer intent
-- distinguishing correlation from causation
-- deciding whether a signal represents real risk
-- correcting incomplete or misleading synthesis
-- determining the appropriate customer response
-- approving material that informs consequential decisions
-
-> **AI can accelerate the investigation. Human judgment still owns the conclusion.**
-
----
-
-## High-Level Operating Flow
-
-```text
-Customer Signals
-      ↓
-Multi-System Context
-      ↓
-AI-Assisted Synthesis
-      ↓
-Contradiction / Risk Detection
-      ↓
-Human Review
-      ↓
-Decision & Ownership
-      ↓
-Customer Action
-      ↓
-Outcome Verification
-```
-
-The final step matters.
-
-A task can be complete without the customer outcome being achieved.
-
----
-
-## What This Demonstrates
-
-- AI-enabled customer operations
-- post-sale systems thinking
-- customer intelligence
-- risk-signal detection
-- escalation preparation
-- implementation and adoption analysis
-- executive communication
-- knowledge management
-- cross-functional handoffs
-- human-in-the-loop AI
-- evidence-based decision support
-
----
-
-## Where AI Should Not Be Trusted Blindly
-
-AI should not be treated as the sole authority for:
-
-- customer health
-- churn prediction
-- escalation severity
-- stakeholder sentiment
-- root-cause determination
-- contractual interpretation
-- executive decisions
-- customer-facing commitments
-
-A fluent answer is not automatically a correct operational conclusion.
-
----
-
-## Portfolio Boundary
-
-This public study demonstrates the operating approach without publishing:
-
-- proprietary prompt systems
-- production workflows
-- reusable automation logic
-- scoring methods
-- internal schemas
-- customer-specific data
-- employer-owned processes
-- private operating templates
-- detailed AI orchestration or agent logic
-
-The goal is to demonstrate how AI can improve post-sale decision quality without giving away the full machinery.
-
----
-
-## Transferable Applications
-
-The same principles can support:
-
-- enterprise customer success
-- strategic account management
-- implementation operations
-- customer support
-- partner success
-- customer education
-- professional services
-- post-sale leadership
-- multi-site customer environments
-- health-tech and public-sector technology
-
----
+**Capabilities demonstrated:** AI workflow architecture, customer intelligence, risk analysis, knowledge management, executive preparation, and human-in-the-loop design.
 
 ## Portfolio Note
 
-This is a generalized public system-design artifact.
-
-It does not reproduce confidential customer information, employer-owned materials, or private implementation details.
-
+This public study describes the operating approach. Production orchestration, prompt systems, scoring logic, private schemas, customer data, and employer-owned materials are excluded.
 
 ---
 
