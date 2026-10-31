@@ -6,15 +6,7 @@ The **Customer Outcome Reliability Model** is a post-sale operating framework fo
 
 The model is intentionally simple at the public level:
 
-```text
-Promise
-   ↓
-Delivery
-   ↓
-Adoption
-   ↓
-Outcome
-```
+**Promise → Delivery → Adoption → Outcome**
 
 Each stage matters.
 
@@ -312,3 +304,8 @@ Those elements are intentionally reserved for private, consulting, or productize
 The public model shows the operating thesis:
 
 > **Customer value becomes reliable when the transitions between promise, delivery, adoption, and outcome are designed and managed as one system.**
+
+
+---
+
+[Portfolio Home](../README.md) · [Framework](../frameworks/customer-outcome-reliability-model.md) · [Diagnostic Snapshot](../templates/outcome-reliability-diagnostic-snapshot.md) · [Failure Signals](../playbooks/outcome-reliability-failure-signals.md)
