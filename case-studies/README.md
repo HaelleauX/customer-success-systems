@@ -1,21 +1,17 @@
 # Case Studies
 
-Generalized, sanitized examples of post-sale operating work across implementation, adoption, stabilization, and AI-enabled operations.
+Explore professional results and selected operating approaches.
 
-## Portfolio Cases
+| Study | Type | Focus |
+| --- | --- | --- |
+| [Implementation Acceleration](./implementation-acceleration/) | Professional case study | ~12 to ~6 weeks from implementation to go-live; a 50% reduction |
+| [Adoption Turnaround](./adoption-turnaround/) | Professional case study | Utilization ~12% to ~22% across a 500+ district environment in ~90 days |
+| [Customer Risk & Stabilization](./customer-risk-stabilization/) | Generalized operating scenario | Customer impact, dependencies, ownership, and coordinated action |
+| [AI-Enabled Post-Sale Operations](./ai-enabled-post-sale-operations/) | System-design study | Evidence-backed customer context and human-reviewed decision preparation |
 
-### [Implementation Acceleration](./implementation-acceleration/)
-How implementation structure, readiness, stakeholder alignment, workflow standardization, and proactive risk management reduced time-to-live from approximately **12 weeks to 6 weeks**.
+The professional case studies are sanitized reconstructions with approximate figures. The scenario and design study demonstrate approach without claiming a measured recovery or deployed-program outcome.
 
-### [Adoption Turnaround](./adoption-turnaround/)
-How implementation support, enablement, stakeholder alignment, and customer-success execution increased utilization from approximately **12% to 22%** across a **500+ district** environment in roughly four months.
-
-### [Customer Risk & Stabilization](./customer-risk-stabilization/)
-How fragmented customer issues can be converted into a shared operating picture with visible dependencies, explicit ownership, coordinated action, and a predictable communication cadence.
-
-### [AI-Enabled Post-Sale Operations](./ai-enabled-post-sale-operations/)
-A system-design study showing how AI can support post-sale sensemaking, risk detection, escalation preparation, and decision quality while keeping human judgment accountable for the conclusion.
 
 ---
 
-The professional case studies are generalized and sanitized. The AI-enabled operations page is explicitly a system-design study rather than a claim of a single quantified customer deployment.
+[Portfolio Home](../README.md) · [Framework](../frameworks/customer-outcome-reliability-model.md) · [Diagnostic Snapshot](../templates/outcome-reliability-diagnostic-snapshot.md) · [Failure Signals](../playbooks/outcome-reliability-failure-signals.md)
