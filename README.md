@@ -19,7 +19,7 @@ The operating question behind this portfolio is simple:
 | Area | Evidence |
 | --- | --- |
 | Implementation | Reduced time-to-live from approximately **12 weeks to 6 weeks** through readiness, ownership, process standardization, and proactive risk management |
-| Adoption | Increased utilization from approximately **12% to 22%** across a **500+ district** environment in roughly four months |
+| Adoption | Increased utilization from approximately **12% to 22%** across a **500+ district** environment in roughly 90 days |
 | Stabilization | Built a generalized operating model for turning fragmented escalations into visible priorities, dependencies, ownership, and communication cadence |
 | AI-Enabled Operations | Designed a human-in-the-loop approach for using AI to synthesize customer context, surface contradictions, structure escalation evidence, and improve decision preparation |
 
@@ -89,7 +89,7 @@ How implementation structure, readiness, stakeholder alignment, workflow standar
 
 ### [Adoption Turnaround](./case-studies/adoption-turnaround/)
 
-How implementation support, enablement, stakeholder alignment, and customer-success execution increased utilization from approximately **12% to 22%** across a **500+ district** environment in roughly four months.
+How implementation support, enablement, stakeholder alignment, and customer-success execution increased utilization from approximately **12% to 22%** across a **500+ district** environment in roughly 90 days.
 
 **Demonstrates:** adoption strategy, customer enablement, large-scale portfolio management, stakeholder alignment, and value realization.
 
