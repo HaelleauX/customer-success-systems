@@ -6,15 +6,7 @@ This lightweight diagnostic is designed to help identify where customer value ma
 
 It is based on the public **Customer Outcome Reliability Model**:
 
-```text
-Promise
-   ↓
-Delivery
-   ↓
-Adoption
-   ↓
-Outcome
-```
+**Promise → Delivery → Adoption → Outcome**
 
 The purpose is not to produce a score.
 
@@ -33,6 +25,23 @@ The most useful signals are often not the individual answers.
 They are the places where teams answer the same question differently.
 
 ---
+
+## Capture the Review
+
+Use these fields to turn observations into a reviewable follow-up. Leave unknowns visible until evidence resolves them.
+
+| Field | Record |
+| --- | --- |
+| Customer objective | The result the customer expects |
+| Stage or transition | Where the mismatch appears |
+| Internal status | What the internal system reports, with source and date |
+| Customer evidence | What the customer can do or reports experiencing, with source and date |
+| Open question | What still needs verification |
+| Next action and owner | Who will investigate or act |
+| Review date | When the evidence and progress will be revisited |
+| Resolution evidence | How the customer will confirm the issue is addressed |
+
+Record interpretations separately from observed facts. These fields support discussion and follow-through; they do not generate a risk score.
 
 ## 1. Promise
 
@@ -206,3 +215,8 @@ Private elements may include:
 - AI-assisted analysis workflows
 
 The public version demonstrates the diagnostic lens without publishing the full assessment engine.
+
+
+---
+
+[Portfolio Home](../README.md) · [Framework](../frameworks/customer-outcome-reliability-model.md) · [Diagnostic Snapshot](../templates/outcome-reliability-diagnostic-snapshot.md) · [Failure Signals](../playbooks/outcome-reliability-failure-signals.md)
