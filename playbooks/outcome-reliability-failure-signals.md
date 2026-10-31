@@ -6,15 +6,7 @@ This playbook is designed to help identify recurring signals that the post-sale 
 
 It is based on the **Customer Outcome Reliability Model**:
 
-```text
-Promise
-   ↓
-Delivery
-   ↓
-Adoption
-   ↓
-Outcome
-```
+**Promise → Delivery → Adoption → Outcome**
 
 The goal is not to diagnose an account from one symptom.
 
@@ -473,3 +465,8 @@ Those belong to the private implementation layer.
 > **The public question is: “Where is reality diverging from the system?”**
 
 > **The private work begins with deciding why.**
+
+
+---
+
+[Portfolio Home](../README.md) · [Framework](../frameworks/customer-outcome-reliability-model.md) · [Diagnostic Snapshot](../templates/outcome-reliability-diagnostic-snapshot.md) · [Failure Signals](../playbooks/outcome-reliability-failure-signals.md)
