@@ -269,3 +269,8 @@ The same principles can support:
 This is a generalized public system-design artifact.
 
 It does not reproduce confidential customer information, employer-owned materials, or private implementation details.
+
+
+---
+
+[Back to Customer Success Systems](../../README.md) · [GitHub Profile](https://github.com/HaelleauX)
