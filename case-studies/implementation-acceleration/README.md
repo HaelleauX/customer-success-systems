@@ -214,3 +214,8 @@ The portfolio is designed to demonstrate capability without turning professional
 ## Portfolio Note
 
 This case study is a generalized reconstruction of professional work. Identifying customer and employer information has been removed, and the content is presented to demonstrate transferable customer success and implementation methodology rather than reproduce proprietary materials.
+
+
+---
+
+[Back to Customer Success Systems](../../README.md) · [GitHub Profile](https://github.com/HaelleauX)
