@@ -7,3 +7,8 @@ Lightweight public tools designed to demonstrate practical application of the po
 A concise diagnostic lens for reviewing **Promise → Delivery → Adoption → Outcome** and identifying where internal status and customer reality may be diverging.
 
 This public version surfaces questions and mismatches rather than generating a proprietary score or assessment.
+
+
+---
+
+[Portfolio Home](../README.md) · [Framework](../frameworks/customer-outcome-reliability-model.md) · [Diagnostic Snapshot](../templates/outcome-reliability-diagnostic-snapshot.md) · [Failure Signals](../playbooks/outcome-reliability-failure-signals.md)
