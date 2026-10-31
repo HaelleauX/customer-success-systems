@@ -6,7 +6,7 @@ This case study demonstrates how a customer-success approach centered on adoptio
 
 The program supported more than **500 district-level customers** with different levels of readiness, engagement, internal ownership, and operational maturity. The challenge was not simply getting the platform implemented. The harder problem was helping customers move from access to meaningful use.
 
-Over roughly four months, utilization increased from approximately **12% to 22%**, a gain of about **10 percentage points** across the statewide customer base.
+Over roughly 90 days, utilization increased from approximately **12% to 22%**, a gain of about **10 percentage points** across the statewide customer base.
 
 The objective was straightforward:
 
@@ -94,7 +94,7 @@ The work therefore emphasized repeatable communication, training, implementation
 
 ## Outcome
 
-Across roughly four months:
+Across roughly 90 days:
 
 | Measure | Result |
 | --- | --- |
@@ -102,7 +102,7 @@ Across roughly four months:
 | Starting utilization | ~12% |
 | Ending utilization | ~22% |
 | Improvement | ~10 percentage points |
-| Time period | ~4 months |
+| Time period | ~90 days |
 
 The most important result was not simply that the utilization number increased.
 
@@ -179,3 +179,8 @@ The purpose of this artifact is to show **how I approach adoption problems**, no
 ## Portfolio Note
 
 This is a generalized and sanitized reconstruction of professional work. Identifying customer information, internal systems, proprietary materials, and non-public operational details have been intentionally removed.
+
+
+---
+
+[Back to Customer Success Systems](../../README.md) · [GitHub Profile](https://github.com/HaelleauX)
