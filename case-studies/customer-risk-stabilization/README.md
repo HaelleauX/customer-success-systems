@@ -261,3 +261,8 @@ The same stabilization principles can be applied to:
 ## Portfolio Note
 
 This is a generalized and sanitized portfolio case study. It is designed to demonstrate approach, judgment, and operating principles while protecting confidential customer, employer, and proprietary information.
+
+
+---
+
+[Back to Customer Success Systems](../../README.md) · [GitHub Profile](https://github.com/HaelleauX)
