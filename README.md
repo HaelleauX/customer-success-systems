@@ -11,7 +11,7 @@ I build and improve the systems that connect customer promises to delivery, adop
 | Professional case study | Result | Explore |
 | --- | --- | --- |
 | Implementation acceleration | Reduced typical implementation-to-go-live time from ~12 weeks to ~6 weeks, a 50% reduction | [Read the case study](./case-studies/implementation-acceleration/) |
-| Adoption turnaround | Helped increase utilization from ~12% to ~22% across a 500+ district environment in ~90 days | [Read the case study](./case-studies/adoption-turnaround/) |
+| Adoption turnaround | Helped increase utilization from ~12% to ~22% across a 500+ district environment in approximately 90 days | [Read the case study](./case-studies/adoption-turnaround/) |
 
 These are generalized reconstructions of professional work with approximate figures. Go-live and utilization are operational measures; sustained customer value requires continued follow-through.
 
@@ -35,6 +35,7 @@ The public tools provide three ways to examine those gaps:
 | Tool | Use it to |
 | --- | --- |
 | [Customer Outcome Reliability Model](./frameworks/customer-outcome-reliability-model.md) | Examine where the customer journey loses continuity |
+| [Implementation Readiness Checklist (Illustrative Sample)](./templates/implementation-readiness-checklist.md) | Review readiness criteria, ownership, dependencies, required evidence, blockers, and the go-live decision |
 | [Diagnostic Snapshot](./templates/outcome-reliability-diagnostic-snapshot.md) | Identify where internal status and customer experience may diverge |
 | [Failure Signals](./playbooks/outcome-reliability-failure-signals.md) | Recognize recurring patterns in launch gaps, unresolved issues, escalations, and unclear ownership |
 
