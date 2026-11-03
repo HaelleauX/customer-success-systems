@@ -34,6 +34,12 @@ That shifted attention toward readiness and dependencies, helping teams remove a
 
 **Capabilities demonstrated:** implementation strategy, process improvement, cross-functional delivery, stakeholder alignment, risk management, and operational handoffs.
 
+## Related Illustrative Sample
+
+The [Implementation Readiness Checklist](../../templates/implementation-readiness-checklist.md) shows one generalized way to make readiness criteria, owners, dependencies, required evidence, blockers, and the go-live decision explicit.
+
+It is an **illustrative portfolio sample**, not an original employer artifact and not evidence that this exact checklist was historically deployed.
+
 ## Portfolio Note
 
 This is a generalized reconstruction of professional work. Timelines are approximate. Customer identities, internal records, proprietary workflows, and employer-owned materials are excluded.
