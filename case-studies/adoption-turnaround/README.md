@@ -1,6 +1,6 @@
 # Adoption Turnaround
 
-**Helped increase statewide platform utilization from approximately 12% to 22% in roughly 90 days.**
+**Helped increase statewide platform utilization from approximately 12% to 22% in approximately 90 days.**
 
 *Professional case study | Generalized reconstruction*
 
@@ -26,7 +26,7 @@ I connected implementation support, practical training, and stakeholder coordina
 | Starting utilization | ~12% |
 | Ending utilization | ~22% |
 | Change | ~10 percentage points |
-| Period | ~90 days |
+| Period | Approximately 90 days |
 
 This was a program-level utilization improvement supported by coordinated customer-success work. Utilization indicates use; it does not, by itself, establish downstream educational or safety outcomes.
 
