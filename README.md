@@ -11,7 +11,7 @@ I build and improve the systems that connect customer promises to delivery, adop
 | Professional case study | Result | Explore |
 | --- | --- | --- |
 | Implementation acceleration | Reduced typical implementation-to-go-live time from ~12 weeks to ~6 weeks, a 50% reduction | [Read the case study](./case-studies/implementation-acceleration/) |
-| Adoption turnaround | Helped increase utilization from ~12% to ~22% across a 500+ district environment in approximately 90 days | [Read the case study](./case-studies/adoption-turnaround/) |
+| Adoption turnaround | Helped increase platform utilization from ~12% to ~22% within four months on a statewide education account | [Read the case study](./case-studies/adoption-turnaround/) |
 
 These are generalized reconstructions of professional work with approximate figures. Go-live and utilization are operational measures; sustained customer value requires continued follow-through.
 
