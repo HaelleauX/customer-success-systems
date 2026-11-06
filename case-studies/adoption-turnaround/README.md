@@ -1,12 +1,12 @@
 # Adoption Turnaround
 
-**Helped increase statewide platform utilization from approximately 12% to 22% in approximately 90 days.**
+**Helped increase platform utilization from approximately 12% to 22% within four months on a statewide education account.**
 
 *Professional case study | Generalized reconstruction*
 
 ## The Problem
 
-A public-sector technology program served more than 500 district-level customers with varying readiness, staffing, workflows, and stakeholder engagement. Access and implementation did not consistently translate into routine use.
+The statewide rollout spanned more than 500 school districts with varying readiness, staffing, workflows, and stakeholder engagement. Access and implementation did not consistently translate into routine use.
 
 ## My Contribution
 
@@ -22,13 +22,12 @@ I connected implementation support, practical training, and stakeholder coordina
 
 | Measure | Result |
 | --- | --- |
-| Program environment | 500+ district-level customers |
 | Starting utilization | ~12% |
 | Ending utilization | ~22% |
 | Change | ~10 percentage points |
-| Period | Approximately 90 days |
+| Period | Within four months |
 
-This was a program-level utilization improvement supported by coordinated customer-success work. Utilization indicates use; it does not, by itself, establish downstream educational or safety outcomes.
+The result reflects utilization for the statewide education account. Utilization indicates use; it does not, by itself, establish downstream educational or safety outcomes.
 
 ## The Judgment Behind the Work
 
