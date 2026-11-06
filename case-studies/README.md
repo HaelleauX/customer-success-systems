@@ -5,7 +5,7 @@ Explore professional results and selected operating approaches.
 | Study | Type | Focus |
 | --- | --- | --- |
 | [Implementation Acceleration](./implementation-acceleration/) | Professional case study | ~12 to ~6 weeks from implementation to go-live; a 50% reduction |
-| [Adoption Turnaround](./adoption-turnaround/) | Professional case study | Utilization ~12% to ~22% across a 500+ district environment in approximately 90 days |
+| [Adoption Turnaround](./adoption-turnaround/) | Professional case study | Platform utilization ~12% to ~22% within four months on a statewide education account |
 | [Customer Risk & Stabilization](./customer-risk-stabilization/) | Generalized operating scenario | Customer impact, dependencies, ownership, and coordinated action |
 | [AI-Enabled Post-Sale Operations](./ai-enabled-post-sale-operations/) | System-design study | Evidence-backed customer context and human-reviewed decision preparation |
 
